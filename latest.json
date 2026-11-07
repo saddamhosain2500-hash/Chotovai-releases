@@ -1,6 +1,6 @@
 {
- "version": 9,
+ "version": 10,
  "apk": "https://raw.githubusercontent.com/saddamhosain2500-hash/Chotovai-releases/main/Chotovai.apk",
  "agent": "https://raw.githubusercontent.com/saddamhosain2500-hash/Chotovai-releases/main/chotovai-agent.zip",
- "notes": "দ্রুত চালু ও রিস্টার্ট"
+ "notes": "অ্যাপ থেকে বট চালু ঠিক করা হয়েছে"
 }
