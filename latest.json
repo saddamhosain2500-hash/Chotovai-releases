@@ -1,6 +1,1 @@
-{
- "version": 15,
- "apk": "https://raw.githubusercontent.com/saddamhosain2500-hash/Chotovai-releases/main/Chotovai-v15.apk",
- "agent": "https://raw.githubusercontent.com/saddamhosain2500-hash/Chotovai-releases/main/chotovai-agent-v15.zip",
- "notes": "মডেল বদলানো ঠিক করা হয়েছে"
-}
+{"version":16,"apk":"https://raw.githubusercontent.com/saddamhosain2500-hash/Chotovai-releases/main/Chotovai-v16.apk","agent":"https://raw.githubusercontent.com/saddamhosain2500-hash/Chotovai-releases/main/chotovai-agent-v16.zip","notes":"অ্যাপে ভয়েস, শেখানো ব্যবস্থা, ভালো ভয়েস বোঝা, সবসময় 'তুমি'"}
