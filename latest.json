@@ -1,6 +1,6 @@
 {
- "version": 12,
- "apk": "https://raw.githubusercontent.com/saddamhosain2500-hash/Chotovai-releases/main/Chotovai-v12.apk",
- "agent": "https://raw.githubusercontent.com/saddamhosain2500-hash/Chotovai-releases/main/chotovai-agent-v12.zip",
- "notes": "নতুন পরিষ্কার ডিজাইন"
+ "version": 13,
+ "apk": "https://raw.githubusercontent.com/saddamhosain2500-hash/Chotovai-releases/main/Chotovai-v13.apk",
+ "agent": "https://raw.githubusercontent.com/saddamhosain2500-hash/Chotovai-releases/main/chotovai-agent-v13.zip",
+ "notes": "দ্রুত রিস্টার্ট, ডিজাইন ঠিক করা"
 }
